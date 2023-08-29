@@ -1,0 +1,35 @@
+{
+    "babyFeedByMonth" : [ 
+    {
+    "id": 1,
+    "months" : "1",
+    "ouncesPerFeed" : "2-4",
+    "feedsPerDay" : "6-8"},
+    {
+    "id": 2,
+    "months" : "2",
+    "ouncesPerFeed" : "4-6",
+    "feedsPerDay" : "5-6"},
+    {
+    "id": 3,
+    "months" : "3",
+    "ouncesPerFeed" : "4-6",
+    "feedsPerDay" : "5-6"},
+    {
+    "id": 4,
+    "months" : "4",
+    "ouncesPerFeed" : "5-7",
+    "feedsPerDay" : "4-6"},
+    {
+    "id": 5,
+    "months" : "5",
+    "ouncesPerFeed" : "5-8",
+    "feedsPerDay" : "4-6"},
+    {
+    "id": 6,
+    "months" : "6",
+    "ouncesPerFeed" : "5-8",
+    "feedsPerDay" : "4-6"}
+]
+
+  }
